@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://move-2kz.pages.dev/sitemap.xml
